@@ -24,7 +24,7 @@ function filter() {
 }
 
 /**
- * Función para mostrar etiqueta de montos
+ * Función para mostrar resultado
  * @return {void}
  */
  function setAlert() {
