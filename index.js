@@ -33,7 +33,7 @@ function filter() {
   alert.innerHTML = `
   <div class="text-break">
     <p>Lista original: ${lista.toString()}</p>
-    <p>lista de numeros unicos: ${listaUnicos.toString()}</p>
+    <p>Lista de numeros unicos: ${listaUnicos.toString()}</p>
   </div>
   `;
 }
